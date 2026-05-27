@@ -2,7 +2,7 @@
 
 <img src="screenshots/vajra.png" width="180"/>
 
-# ⚡ Indra
+# Indra
 
 *A clean and modern weather app built with Jetpack Compose.*
 
